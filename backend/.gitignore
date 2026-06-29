@@ -1,0 +1,15 @@
+node_modules/
+.env
+uploads/profiles/*
+uploads/stores/*
+uploads/products/*
+!uploads/profiles/.gitkeep
+!uploads/stores/.gitkeep
+!uploads/products/.gitkeep
+*.log
+.DS_Store
+
+# Environment files
+.env
+.env.example
+
